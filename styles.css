@@ -307,5 +307,8 @@ div2{
     align-items: center;
     flex-wrap: wrap;
   }
-
-
+main .greeting {
+ 
+  background-color: #5d6063;
+  color: rgb(27, 1, 1);
+}
